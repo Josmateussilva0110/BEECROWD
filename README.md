@@ -1,1 +1,1 @@
-Algumas soluções de problemas da plataforma beecrowd
+Algumas soluções de problemas da plataforma beecrowd.
